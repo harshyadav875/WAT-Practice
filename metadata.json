@@ -1,0 +1,5 @@
+{
+  "name": "AFSB WAT Practice",
+  "description": "An application to practice for the Word Association Test (WAT) of the AFSB assessment. It displays 60 unique words, each for 15 seconds, accompanied by a beep to signal the next word.",
+  "requestFramePermissions": []
+}
